@@ -9,15 +9,15 @@ This is a project that I have developed my Responsive Webpage skills.
 
 You can reach the Live Site here : [Click here !](https://erenymo.github.io/food-based-website/) 
 
-## I have used 
+## In this project
 
-In this project:
+I have used these : 
 
-Semantic HTML5
+- Semantic HTML5
 
-CSS3 - CSS Grid, Flexbox
+- CSS3 - CSS Grid, Flexbox
 
-JavaScript - beginner level
+- JavaScript - beginner level
 
 ## Screenshots
 
