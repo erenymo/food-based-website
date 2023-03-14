@@ -13,4 +13,4 @@ You can reach the Live Site here : [Click here !](https://erenymo.github.io/food
 
 # Desktop Design
 
-![Desktop Design Preview](./img/design/design-desktop-1.png)
+![Desktop Design Preview](./img/design/design-desktop.png)
