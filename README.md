@@ -12,8 +12,11 @@ You can reach the Live Site here : [Click here !](https://erenymo.github.io/food
 ## I have used 
 
 In this project:
+
 Semantic HTML5
+
 CSS3 - CSS Grid, Flexbox
+
 JavaScript - beginner level
 
 ## Screenshots
