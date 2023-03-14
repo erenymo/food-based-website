@@ -16,3 +16,8 @@ You can reach the Live Site here : [Click here !](https://erenymo.github.io/food
 ![Desktop Design Preview](./img/design/design-desktop.png)
 
 ![Desktop Design Preview](./img/design/design-desktop-2.png)
+
+# Mobile Design
+
+![Mobile Design Preview](./img/design/design-mobile.png)
+![Mobile Design Preview](./img/design/design-mobile-2.png)
